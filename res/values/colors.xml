@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="up_green">#169F26</color>
+    <color name="down_red">#D42223</color>
+    <color name="stay_gray">#ffa8a6a0</color>
+
+</resources>

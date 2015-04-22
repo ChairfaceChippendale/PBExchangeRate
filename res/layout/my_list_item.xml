@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/itemView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+
+        android:text="05.12.12       1 USD = 20.556 UAH"
+        android:padding="@dimen/main_screen_padding"
+        android:textColor="@color/stay_gray"
+        android:textSize="@dimen/main_screen_text_size"
+        >
+</TextView>
